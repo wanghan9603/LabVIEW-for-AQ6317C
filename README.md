@@ -1,7 +1,7 @@
 # LabVIEW-for-AQ6317C
 A LabVIEW project for Optical Spectrum Analyzer AQ6317C
 
-Version: LabVIEW 2017
+Version: <strong>LabVIEW 2017</strong><Br>
 Before starting this program, the <a href="http://sine.ni.com/apps/utf8/niid_web_display.download_page?p_id_guid=192BC15B39DB2023E05400144FFA2D85">instrument drive</a> should be installed firstly.
 
 This is a LabVIEW project used for controling Optical Spectrum Analyzer AQ6317C.
