@@ -2,6 +2,7 @@
 A LabVIEW project for Optical Spectrum Analyzer AQ6317C
 
 Version: LabVIEW 2017
+Before starting this program, the <a href="http://sine.ni.com/apps/utf8/niid_web_display.download_page?p_id_guid=192BC15B39DB2023E05400144FFA2D85">instrument drive</a> should be installed firstly.
 
 This is a LabVIEW project used for controling Optical Spectrum Analyzer AQ6317C.
 The AQ6317C is a high-precision, wide-wavelength-range spectrometer produced by ANDO (Now is Yokogawa), which was discontinued in 2006.
